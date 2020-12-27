@@ -5,7 +5,6 @@ Purpose: Connect Four game using 2D arrays and user defined functions
 Author: Lin.I
 
 Created: 20/12/2020
-"""
 */
 
 #include <iostream>
